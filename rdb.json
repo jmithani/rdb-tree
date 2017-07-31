@@ -1,0 +1,29 @@
+{
+  "name": "progressive landscape",
+  "children": [
+    {
+      "name": "media",
+      "children": [
+        {"name": "news"},
+        {"name": "podcasts",
+        "children": [
+          {"name": "the great battlefied"},
+          {"name": "pod save america"}
+          ]}
+      ]
+    },
+    {
+      "name": "issue advocacy",
+      "children": [
+        {"name": "health"},
+        {"name": "LGBTQ"},
+        {"name": "women's rights"},
+        {"name": "foreign policy"},
+        {"name": "election organizing"}
+      ]
+    },
+    {
+      "name": "funding"
+    }
+  ]
+}
