@@ -1,15 +1,16 @@
 {
-  "name": "progressive landscape",
+  "name": "type of organization",
   "children": [
     {
       "name": "media",
       "children": [
-        {"name": "news"},
+        {"name": "journalism"},
         {"name": "podcasts",
         "children": [
           {"name": "the great battlefied"},
           {"name": "pod save america"}
-          ]}
+          ]},
+        {"name": "blogs"}
       ]
     },
     {
@@ -23,7 +24,29 @@
       ]
     },
     {
-      "name": "funding"
+      "name": "think tank"
+    },
+    {
+      "name": "campaign firms",
+      "children": [
+        {"name": "data"},
+        {"name": "analytics"},
+        {"name": "polling"}
+      ]
+    },
+    {
+      "name": "electoral",
+      "children": [
+        {"name": "voter education"},
+        {"name": "mobilization"},
+        {"name": "registration"}
+      ]
+    },
+    {
+      "name": "organizing"
+    },
+    {
+      "name": "apps"
     }
   ]
 }
