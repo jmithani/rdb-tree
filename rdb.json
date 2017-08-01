@@ -14,13 +14,12 @@
       ]
     },
     {
-      "name": "issue advocacy",
+      "name": "advocacy",
       "children": [
-        {"name": "health"},
-        {"name": "LGBTQ"},
-        {"name": "women's rights"},
-        {"name": "foreign policy"},
-        {"name": "election organizing"}
+        {"name": "policy advocacy"},
+        {"name": "watchdog"},
+        {"name": "anti-defamation"},
+        {"name": "legal defense"}
       ]
     },
     {
@@ -43,7 +42,12 @@
       ]
     },
     {
-      "name": "organizing"
+      "name": "organizing",
+      "children": [
+        {"name": "grassroots"},
+        {"name": "faith based"},
+        {"name": "coalition organizing"}
+      ]
     },
     {
       "name": "apps"
