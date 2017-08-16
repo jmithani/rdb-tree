@@ -50,7 +50,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("rdb.json", function(error, rdb) {
+d3.json("draftData.json", function(error, rdb) {
   if (error) throw error;
 
   root = rdb;

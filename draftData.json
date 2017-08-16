@@ -1,0 +1,802 @@
+{
+  "name": "type of organization",
+  "children": [
+    {
+      "name": "Political party",
+      "children": [
+        {
+          "name": "National",
+          "children": [
+            {
+              "name": "Democratic National Committee"
+            },
+            {
+              "name": "Democratic Socialists of America (DSA)"
+            }
+          ]
+        },
+        {
+          "name": "Local",
+          "children": [
+            {
+              "name": "Dem Action (SF)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resource",
+      "children": [
+        {
+          "name": "Information",
+          "children": [
+            {
+              "name": "Foundation Funding US Democracy"
+            },
+            {
+              "name": "Equality North Carolina"
+            },
+            {
+              "name": "A Modern Party"
+            },
+            {
+              "name": "Funny or Die"
+            },
+            {
+              "name": "Help The Lawyers"
+            },
+            {
+              "name": "endgerrymandering.com"
+            },
+            {
+              "name": "Corrupt AF"
+            },
+            {
+              "name": "Hi From The Other Side"
+            },
+            {
+              "name": "#GrabYourWallet"
+            },
+            {
+              "name": "Digital Security Trainings"
+            },
+            {
+              "name": "538: Congress Trump Score"
+            },
+            {
+              "name": "Design Solutions for Fake News"
+            },
+            {
+              "name": "Digital Organizing Trainings"
+            },
+            {
+              "name": "Code Against Trump"
+            },
+            {
+              "name": "Fact Base"
+            },
+            {
+              "name": "How to America"
+            },
+            {
+              "name": "IssueVoter"
+            },
+            {
+              "name": "How to Fight Back"
+            }
+          ]
+        },
+        {
+          "name": "Contacting officials",
+          "children": [
+            {
+              "name": "Call Your Rep"
+            },
+            {
+              "name": "CallTrump.how"
+            }
+          ]
+        },
+        {
+          "name": "Actions",
+          "children": [
+            {
+              "name": "Easy Activism"
+            }
+          ]
+        },
+        {
+          "name": "Action",
+          "children": [
+            {
+              "name": "7 Minutes Of Justice"
+            },
+            {
+              "name": "Do Something dot org"
+            },
+            {
+              "name": "5 Calls"
+            },
+            {
+              "name": "Homecoming Project"
+            },
+            {
+              "name": "3 NoTrump"
+            },
+            {
+              "name": "Donate Bigly"
+            },
+            {
+              "name": "2 Hours A Week"
+            },
+            {
+              "name": "High Five Action"
+            },
+            {
+              "name": "5 Minute Action"
+            },
+            {
+              "name": "Dream Corps"
+            },
+            {
+              "name": "Do A Thing"
+            },
+            {
+              "name": "Five Minute Resistance"
+            },
+            {
+              "name": "Here To Stay Network"
+            },
+            {
+              "name": "Emergent Fund"
+            }
+          ]
+        },
+        {
+          "name": "Education",
+          "children": [
+            {
+              "name": "Rules At Risk"
+            }
+          ]
+        },
+        {
+          "name": "Call to action",
+          "children": [
+            {
+              "name": "Daily Grab Back"
+            },
+            {
+              "name": "Progressive Action Daily"
+            },
+            {
+              "name": "Damsels in Defiance"
+            },
+            {
+              "name": "Daily Resistance (daily Facebook messages)"
+            },
+            {
+              "name": "Couch Activism"
+            },
+            {
+              "name": "Daily Action (daily text alerts)"
+            },
+            {
+              "name": "Civik Owl"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Labor Union",
+      "children": [
+        {
+          "name": "Communication Workers of America"
+        }
+      ]
+    },
+    {
+      "name": "Media",
+      "children": [
+        {
+          "name": "Journalism",
+          "children": [
+            {
+              "name": "Counterpart"
+            },
+            {
+              "name": "Iran Project"
+            },
+            {
+              "name": "Crooked Media"
+            },
+            {
+              "name": "Daily Kos"
+            }
+          ]
+        },
+        {
+          "name": "Film",
+          "children": [
+            {
+              "name": "50 / 50 Film"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electoral",
+      "children": [
+        {
+          "name": "Candidate training",
+          "children": [
+            {
+              "name": "Democratic Gain"
+            },
+            {
+              "name": "Emerge Wisconsin"
+            },
+            {
+              "name": "EMILY's List"
+            },
+            {
+              "name": "Empowered To Run"
+            },
+            {
+              "name": "Emerge America"
+            },
+            {
+              "name": "Run for Something"
+            },
+            {
+              "name": "Emerge California"
+            }
+          ]
+        },
+        {
+          "name": "Voter education",
+          "children": [
+            {
+              "name": "Call Everyday"
+            },
+            {
+              "name": "#KnockEveryDoor"
+            },
+            {
+              "name": "Countable"
+            },
+            {
+              "name": "Democracy Builders"
+            }
+          ]
+        },
+        {
+          "name": "Mobilization",
+          "children": [
+            {
+              "name": "#VOTEPROCHOICE"
+            },
+            {
+              "name": "Connecting Dots"
+            },
+            {
+              "name": "Flippable"
+            },
+            {
+              "name": "Democracy Works"
+            },
+            {
+              "name": "Every Child Matters/Vote Kids"
+            },
+            {
+              "name": "California Organizes"
+            },
+            {
+              "name": "Clean Water Action"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Think Tank",
+      "children": [
+        {
+          "name": "Single issue",
+          "children": [
+            {
+              "name": "Data & Society"
+            }
+          ]
+        },
+        {
+          "name": "General progressive",
+          "children": [
+            {
+              "name": "Constitutional Accountability Center (CAC)"
+            },
+            {
+              "name": "Demos"
+            },
+            {
+              "name": "Campaign for America's Future"
+            },
+            {
+              "name": "Center for American Progress (CAP)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Advocacy",
+      "children": [
+        {
+          "name": "Faith-based",
+          "children": [
+            {
+              "name": "Bread for the World"
+            }
+          ]
+        },
+        {
+          "name": "Legal Defense",
+          "children": [
+            {
+              "name": "EWR Pro Bono Lawyers"
+            }
+          ]
+        },
+        {
+          "name": "Grassroots",
+          "children": [
+            {
+              "name": "Black Lives Matter"
+            }
+          ]
+        },
+        {
+          "name": "Legal defense",
+          "children": [
+            {
+              "name": "DFW Detained"
+            },
+            {
+              "name": "Disability Rights Ohio"
+            },
+            {
+              "name": "Corporate Accountability Lab: Legal Design for a Global Economy"
+            },
+            {
+              "name": "Disability Rights Washington"
+            },
+            {
+              "name": "Disability Law Center"
+            },
+            {
+              "name": "Jane's Due Process"
+            }
+          ]
+        },
+        {
+          "name": "Legal",
+          "children": [
+            {
+              "name": "Earth Justice"
+            }
+          ]
+        },
+        {
+          "name": "Policy",
+          "children": [
+            {
+              "name": "Brady Campaign"
+            },
+            {
+              "name": "Human Rights First"
+            },
+            {
+              "name": "Blue Green Alliance"
+            },
+            {
+              "name": "DRM"
+            },
+            {
+              "name": "Cosecha Local Organizing"
+            },
+            {
+              "name": "Fair Share"
+            },
+            {
+              "name": "GLAAD"
+            },
+            {
+              "name": "Center for American Progress (CAP) Action Fund"
+            },
+            {
+              "name": "Business Forward"
+            },
+            {
+              "name": "J Street"
+            },
+            {
+              "name": "Council for a Livable World"
+            },
+            {
+              "name": "Coalition Against Gun Violence"
+            },
+            {
+              "name": "Food and Water Watch"
+            },
+            {
+              "name": "Everyone Counts"
+            },
+            {
+              "name": "Guns on Campus/Gun Free Kids"
+            },
+            {
+              "name": "Freedom Cities"
+            },
+            {
+              "name": "Fair Vote"
+            },
+            {
+              "name": "FIRM"
+            },
+            {
+              "name": "Greenpeace"
+            },
+            {
+              "name": "Equal Rights Advocates"
+            },
+            {
+              "name": "Drug Policy Alliance and Reform"
+            },
+            {
+              "name": "#SaveMyCare Bus Tour"
+            },
+            {
+              "name": "Campaign for Guaranteed Healthcare"
+            },
+            {
+              "name": "Human Rights Campaign"
+            },
+            {
+              "name": "Disabilities Network of New York City"
+            },
+            {
+              "name": "Everytown/Moms Demand Action"
+            },
+            {
+              "name": "Families Against Manditory Minimums (FAMM)Mo"
+            },
+            {
+              "name": "Fight for 15"
+            },
+            {
+              "name": "Humane Society"
+            },
+            {
+              "name": "Campaign to Unload"
+            },
+            {
+              "name": "350.org"
+            },
+            {
+              "name": "Common Cause"
+            },
+            {
+              "name": "Constitutional Communications"
+            },
+            {
+              "name": "Disability Rights Education & Defense Fund"
+            },
+            {
+              "name": "Demand Progress"
+            },
+            {
+              "name": "FWD.us"
+            }
+          ]
+        },
+        {
+          "name": "Watchdog",
+          "children": [
+            {
+              "name": "Rise Stronger"
+            },
+            {
+              "name": "Constitutional Responsibility Project"
+            },
+            {
+              "name": "Democratic Coalition Against Trump"
+            },
+            {
+              "name": "FOIA the Trump Administration"
+            }
+          ]
+        },
+        {
+          "name": "Organizing",
+          "children": [
+            {
+              "name": "Faith in Public Life"
+            },
+            {
+              "name": "Grab The Wheel"
+            },
+            {
+              "name": "CREDO"
+            },
+            {
+              "name": "100 Days of Action"
+            },
+            {
+              "name": "Code Pink"
+            },
+            {
+              "name": "#LoveArmy"
+            },
+            {
+              "name": "Climate Action Campaign"
+            },
+            {
+              "name": "Get Organized! BK"
+            },
+            {
+              "name": "Generation Progress"
+            },
+            {
+              "name": "Courage Campaign"
+            },
+            {
+              "name": "#ResistTrumpTuesdays"
+            },
+            {
+              "name": "Feminist Majority"
+            },
+            {
+              "name": "It Takes Roots"
+            },
+            {
+              "name": "DisruptDC"
+            },
+            {
+              "name": "Council on American-Islamic Relations (CAIR)"
+            },
+            {
+              "name": "Islamic Society of North America (ISNA)"
+            },
+            {
+              "name": "Debug Politics"
+            },
+            {
+              "name": "Color of Change"
+            },
+            {
+              "name": "Energy Action Coalition"
+            },
+            {
+              "name": "Dulles Justice"
+            },
+            {
+              "name": "Jacksonville Progressive Coalition"
+            },
+            {
+              "name": "ioby"
+            },
+            {
+              "name": "Doctors for America"
+            },
+            {
+              "name": "Gamaliel"
+            },
+            {
+              "name": "District 13"
+            },
+            {
+              "name": "80% Alliance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PAC",
+      "children": [
+        {
+          "name": "314 Action"
+        },
+        {
+          "name": "End Citizens United"
+        },
+        {
+          "name": "#WeWillReplaceYou"
+        },
+        {
+          "name": "Forward Majority"
+        },
+        {
+          "name": "Democracy for America"
+        },
+        {
+          "name": "It Starts Today"
+        }
+      ]
+    },
+    {
+      "name": "Think tank",
+      "children": [
+        {
+          "name": "Single issue",
+          "children": [
+            {
+              "name": "Economic Policy Institute (EPI)"
+            },
+            {
+              "name": "House Future Forum"
+            },
+            {
+              "name": "FRAC"
+            },
+            {
+              "name": "Human Right Watch"
+            },
+            {
+              "name": "Environmental Defense Fund"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vendor",
+      "children": [
+        {
+          "name": "Democracy Engine"
+        },
+        {
+          "name": "18F"
+        },
+        {
+          "name": "E The People"
+        },
+        {
+          "name": "Defiant"
+        },
+        {
+          "name": "Democracy Lab"
+        },
+        {
+          "name": "Democracy Earth Foundation"
+        },
+        {
+          "name": "Design for Resistance"
+        },
+        {
+          "name": "CrowdPAC"
+        },
+        {
+          "name": "Empower Engine"
+        },
+        {
+          "name": "HelloGov"
+        },
+        {
+          "name": "Creative Caucus"
+        },
+        {
+          "name": "Crowdring"
+        },
+        {
+          "name": "Firechat"
+        }
+      ]
+    },
+    {
+      "name": "Funder",
+      "children": [
+        {
+          "name": "GovTech Fund"
+        },
+        {
+          "name": "Emerson Collective"
+        },
+        {
+          "name": "Committee on the States"
+        },
+        {
+          "name": "CrowdRise"
+        },
+        {
+          "name": "1776 NYC"
+        },
+        {
+          "name": "Democracy Alliance (DA)"
+        },
+        {
+          "name": "Higher Ground Labs"
+        },
+        {
+          "name": "DemLabs"
+        }
+      ]
+    },
+    {
+      "name": "Type",
+      "children": [
+        {
+          "name": "Subtype",
+          "children": [
+            {
+              "name": "Organization"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Political Party",
+      "children": [
+        {
+          "name": "National",
+          "children": [
+            {
+              "name": "Progressive Caucus (of Democrats in the House)"
+            },
+            {
+              "name": "DNC"
+            },
+            {
+              "name": "DCCC"
+            },
+            {
+              "name": "DLCC"
+            },
+            {
+              "name": "DSCC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volunteer",
+      "children": [
+        {
+          "name": "FUSE Corps"
+        },
+        {
+          "name": "Ragtag"
+        },
+        {
+          "name": "DataKind"
+        },
+        {
+          "name": "Data For Democracy"
+        },
+        {
+          "name": "Experiments in the Public Interest"
+        },
+        {
+          "name": "Humanitarian Openstreetmap Team"
+        },
+        {
+          "name": "Digital Security Exchange"
+        },
+        {
+          "name": "DevProgress"
+        },
+        {
+          "name": "Code for America Brigades"
+        },
+        {
+          "name": "Progressive Coders Network"
+        }
+      ]
+    }
+  ]
+}
